@@ -72,7 +72,7 @@ public class PhoneBook {
     private void showAllContact(){
         for (Contact contact : contactList) {
             if (contact != null) {
-                System.out.println(contact.getName() + "  " + contact.getSurname() + ", phone:" + contact.getTelefonNumber());
+                System.out.println(contact.getName() + "  " + contact.getSurname() + ", phone:" + contact.getPhoneNumber());
             } else {
                 break;
             }

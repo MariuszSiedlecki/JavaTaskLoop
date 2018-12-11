@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c5a05a-74ca-4ecc-be9e-013522364733" name="Default Changelist" comment="ph3">
+    <list default="true" id="c6c5a05a-74ca-4ecc-be9e-013522364733" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/phoneBookAddDeletShow/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -117,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544561893638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544561947074" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="D:/Task4/src/task4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -177,7 +177,7 @@
       <workItem from="1544518418524" duration="1593000" />
       <workItem from="1544520886123" duration="6886000" />
       <workItem from="1544527810775" duration="12465000" />
-      <workItem from="1544556438351" duration="4421000" />
+      <workItem from="1544556438351" duration="4681000" />
     </task>
     <task id="LOCAL-00001" summary="phone">
       <created>1544559233478</created>
@@ -200,11 +200,25 @@
       <option name="project" value="LOCAL" />
       <updated>1544559919298</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ph3">
+      <created>1544561900949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544561900949</updated>
+    </task>
+    <task id="LOCAL-00005" summary="con4">
+      <created>1544561920159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544561920159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26338000" />
+    <option name="totallyTimeSpent" value="26598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,7 +270,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="phone" />
     <MESSAGE value="phone3" />
-    <option name="LAST_COMMIT_MESSAGE" value="phone3" />
+    <MESSAGE value="ph3" />
+    <MESSAGE value="con4" />
+    <option name="LAST_COMMIT_MESSAGE" value="con4" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -344,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/src/phoneBookAddDeletShow/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>

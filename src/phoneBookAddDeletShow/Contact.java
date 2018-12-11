@@ -3,12 +3,12 @@ package phoneBookAddDeletShow;
 public class Contact {
     private String name;
     private String surname;
-    private String telefonNumber;
+    private String phoneNumber;
 
     public Contact(String name, String surname,String telefonNumber){
         this.name = name;
         this.surname = surname;
-        this.telefonNumber = telefonNumber;
+        this.phoneNumber = telefonNumber;
     }
 
     public String getName() {
@@ -28,12 +28,12 @@ public class Contact {
     }
 
     public String getTelefonNumber() {
-        return telefonNumber;
+        return phoneNumber;
     }
 
     public void setTelefonNumber(String telefonNumber) {
 
-        this.telefonNumber = telefonNumber;
+        this.phoneNumber = telefonNumber;
     }
 
 }

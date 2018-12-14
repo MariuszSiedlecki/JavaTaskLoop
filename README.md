@@ -1,6 +1,6 @@
 1. src/libraryBook
 
-Wyświetl 
+Wyświetl tytuł książki, autora oraz numer Isbn.Stwórz dwie klasy ksiazka i biblioteka.
 
 2. src/phoneBookAddDeletShow
 
